@@ -1,0 +1,19 @@
+Live logs will appear here...
+
+[INFO] Starting process...
+[INFO] Process completed successfully
+
+data:Cloning into 'RobotTesting'...
+data:
+
+data:[ ERROR ] Suite '2025-03-26T06-04-43' contains no tests or tasks.
+data:
+
+data:
+data:
+
+data:Try --help for usage information.
+data:
+
+data:Report file not found, skipping database upload.
+
